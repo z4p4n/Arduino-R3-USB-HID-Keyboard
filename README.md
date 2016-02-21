@@ -6,9 +6,11 @@ Turn your Arduino R3 into USB HID Keyboard
 Sources
 ------
 
-wiki.sgmk-ssam.ch/wiki/Arduino_Uno_R3_as_Hid
+http://wiki.sgmk-ssam.ch/wiki/Arduino_Uno_R3_as_Hid
+
 www.usb.org/developers/hidpage/Hut1_12v2.pdf
-jlbicquelet.free.fr/notes/claviers.php
+
+http://jlbicquelet.free.fr/notes/claviers.php
 
 Prerequisites
 ------
@@ -18,7 +20,7 @@ Arduino UNO R3
 How it's work
 ------
 
-Write an code in batch and vbscript. This script download an another program who shit in your screen. duuuh suuurry...
+Write code in batch and vbscript. This script download an another program who shit in your screen. duuuh suuurry...
 
 Improvement
 ------
