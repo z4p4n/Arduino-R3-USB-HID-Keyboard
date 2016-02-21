@@ -16,6 +16,6 @@ Write an code in batch and vbscript. This script download an another program who
 Improvement
 ------
 
-Become a real spy (or pain in the ass) and add some buttons to adapt the maping of keyboard (qwerty, azerty et cetera...).
+Become a real spy (or pain in the ass) and add some buttons to adapt the mapping of keyboard (qwerty, azerty et cetera...).
 
 
