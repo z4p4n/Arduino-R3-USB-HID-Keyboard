@@ -3,6 +3,13 @@ Turn your Arduino R3 into USB HID Keyboard
 
 ![alt tag](https://raw.githubusercontent.com/z4p4n/Arduino-R3-USB-HID-Keyboard/master/img/demo.gif)
 
+Sources
+------
+
+wiki.sgmk-ssam.ch/wiki/Arduino_Uno_R3_as_Hid
+www.usb.org/developers/hidpage/Hut1_12v2.pdf
+jlbicquelet.free.fr/notes/claviers.php
+
 Prerequisites
 ------
 
